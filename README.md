@@ -1,4 +1,10 @@
-# Hi, I'm [ProrsoleDEV](https://create.roblox.com/talent/creators/7624921) 👋
+<div align="center">
+
+# 👑 Hi, I'm [ProrsoleDEV](https://create.roblox.com/talent/creators/7624921) 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7B733&center=true&vCenter=true&width=500&lines=Roblox+Developer;Advanced+Luau+Scripter;6M%2B+Visits+Across+Projects)](https://create.roblox.com/talent/creators/7624921)
+
+</div>
 
 ![Banner](https://i.imgur.com/jPxyThg.png)
 
