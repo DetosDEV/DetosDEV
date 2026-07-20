@@ -63,7 +63,6 @@ I'm responsible for designing the game's core systems, both frontend and backend
 
 </div>
 
-<!-- Aquí puedes agregar imágenes o videos del proyecto -->
 
 ### ⭐ Disaster Rush — Owner @ SCProle Studios *(Solo Project)*
 *Oct 2025 – Jan 2026* &nbsp; ![Solo](https://img.shields.io/badge/💪-100%25_SOLO-F7B733?style=flat-square)
@@ -77,7 +76,6 @@ Developed entirely by myself — I was responsible for all of the game's systems
 
 </div>
 
-<!-- Aquí puedes agregar imágenes o videos del proyecto -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
