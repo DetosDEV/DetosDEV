@@ -100,6 +100,10 @@ I mainly accept commissions for all kinds of systems. I'm also open to part time
 
 ### ➡️ [**Contact me via the Roblox Talent Hub**](https://create.roblox.com/talent/creators/7624921) ⬅️
 
+![Discord](https://img.shields.io/badge/Discord-prorsole.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+💬 You can also reach me on **Discord: `prorsole.dev`** — if you need more samples of my work, I'm happy to send images and showcases of my creations directly there!
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B733,50:FFD700,100:8B0000&height=140&section=footer" width="100%"/>
 
 </div>
