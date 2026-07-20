@@ -1,6 +1,6 @@
 # Hi, I'm [ProrsoleDEV](https://create.roblox.com/talent/creators/7624921) 👋
 
-![Banner]([./Banner.png](https://i.imgur.com/jPxyThg.png))
+![Banner](https://i.imgur.com/jPxyThg.png)
 
 **Roblox Developer** with 3 years of experience scripting in Roblox Studio using **Luau**. Throughout my career, I have contributed to projects accumulating over **6 million visits**.
 
