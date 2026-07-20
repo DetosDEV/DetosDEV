@@ -79,6 +79,25 @@ Developed entirely by myself — I was responsible for all of the game's systems
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## 🎬 Featured Creations
+
+Check out some of my work in action:
+
+<div align="center">
+
+[![Showcase 1](https://img.shields.io/badge/▶️_Showcase_%231-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@prorsole.dev/video/7591986043063127316)
+[![Showcase 2](https://img.shields.io/badge/▶️_Showcase_%232-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@prorsole.dev/video/7583445317203315988)
+[![Showcase 3](https://img.shields.io/badge/▶️_Showcase_%233-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@prorsole.dev/video/7581683648282348820)
+
+[![Showcase 4](https://img.shields.io/badge/▶️_Showcase_%234-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@prorsole.dev/video/7569742750715776277)
+[![Showcase 5](https://img.shields.io/badge/▶️_Showcase_%235-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@prorsole.dev/video/7624342040746216724)
+
+**[See more on my TikTok →](https://www.tiktok.com/@prorsole.dev)**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ## 📬 Open to Work
 
 <div align="center">
